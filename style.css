@@ -79,7 +79,7 @@ main {
 
 @media (max-width: 768px) {
     .calculadora {
-        min-width: 50vw !important;
+        min-width: 70vw !important;
         height: 80vw;
     }
     .display-box {
