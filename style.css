@@ -77,13 +77,13 @@ main {
     height: 94%;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
     .calculadora {
-        min-width: 200px !important;
-        height: 130vw;
+        min-width: 50vw !important;
+        height: 80vw;
     }
     .display-box {
-        font-size: 10vw;
+        font-size: 8vw;
     }
     .btn-box {
         position: relative;
